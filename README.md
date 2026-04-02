@@ -11,49 +11,51 @@ Access your personal dashboard here:
 ## 📸 App Preview
 
 ### 1. The Secure Lock Screen
-NEXAZ prioritizes your privacy. The system is protected by a 4-digit PIN with a dedicated hint system.
+NEXAZ prioritizes your privacy. The system is protected by a 4-digit PIN with a dedicated hint system and masked entry for security.
 
-![NEXAZ Login Screen](login.png)
+![NEXAZ Login Screen](assets/login.png)
 
 ### 2. The Smart Dashboard & Calendar
-Manage your profile, track starred task progress, and use the dynamic visual calendar.
+Manage your profile, track starred task progress, and use the dynamic visual calendar to stay on top of your schedule.
 
-![NEXAZ Dashboard](dashboard.png)
-![Visual Calendar](calendar.png)
+![NEXAZ Dashboard](assets/dashboard.png)
+![Visual Calendar](assets/calendar.png)
 
 ### 3. Productivity Tools
-From voice-activated notes to the Eisenhower Priority Matrix, every tool is designed for clarity.
+From voice-activated notes to the Eisenhower Priority Matrix, every tool is designed for clarity and speed.
 
-![Voice Notes](notes.png)
-![Priority Matrix](matrix.png)
+![Voice Notes](assets/notes.png)
+![Priority Matrix](assets/matrix.png)
 
 ### 4. Security & Management
 Store sensitive logins in the Vault, manage important links, and customize your system settings.
 
-![Secure Vault](vault.png)
-![Link Manager](links.png)
-![System Settings](settings.png)
+![Secure Vault](assets/vault.png)
+![Link Manager](assets/links.png)
+![System Settings](assets/settings.png)
 
 ---
 
 ## ✨ Key Features
-- **🔐 Privacy-First Security:** 4-digit PIN access and 100% client-side data storage.
-- **🎙️ Voice-Activated Notes:** Dictate thoughts directly into the system using Web Speech API.
-- **🔍 Global Smart Search:** Unified search bar for notes, tasks, and links.
-- **🎨 Persistent Themes:** Choose between Serene Sage, Midnight Navy, or Nordic Light.
-- **💾 Data Control:** Export your entire system state into a JSON file for backup.
+
+- **🔐 Privacy-First Security:** 4-digit PIN access, masked passwords, and 100% client-side data storage.
+- **🎙️ Voice-Activated Notes:** Dictate thoughts directly into the system using the Web Speech API.
+- **🔍 Global Smart Search:** A unified search bar that queries across all your stored notes, tasks, and links simultaneously.
+- **🎨 Persistent Themes:** Choose between custom UI modes like Serene Sage, Midnight Navy, or Nordic Light.
+- **💾 Data Control:** Export your entire system state into a portable JSON file for backup and data ownership.
 
 ---
 
 ## 🛠️ Technical Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Icons:** Google Material Symbols
+
+- **Frontend:** HTML5, CSS3 (Advanced Grid & Flexbox), JavaScript (ES6+)
+- **Icons:** Google Material Symbols (Rounded)
+- **Typography:** Quicksand & Montserrat
 - **APIs:** Web Speech API, Web Storage API
 
 ---
 
-## 🎓 Project Context
-Developed as a Final Year B.Tech Project in Computer Technology at **Kavi Kulguru Institute of Technology and Science (KITS), Ramtek**.
-
-**Developer:** Kesar Tandulkar (Khushi)  
-**Goal:** Everything. Organized. Secure. Smart.
+## 🚀 How to use locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Kesarrt/NEXAZ.git](https://github.com/Kesarrt/NEXAZ.git)
