@@ -25,14 +25,14 @@ Manage your profile, track starred task progress, and use the dynamic visual cal
 From voice-activated notes to the Eisenhower Priority Matrix, every tool is designed for clarity and speed.
 
 ![Voice Notes](Screenshot 2026-04-03 023700.png)
-![Priority Matrix](‎Screenshot 2026-04-03 023728.png)
+![Priority Matrix](Screenshot 2026-04-03 023728.png)
 
 ### 4. Security & Management
 Store sensitive logins in the Vault, manage important links, and customize your system settings.
 
-![Secure Vault](‎Screenshot 2026-04-03 023820.png)
-![Link Manager](‎Screenshot 2026-04-03 023856.png)
-![System Settings](‎Screenshot 2026-04-03 023924.png)
+![Secure Vault](Screenshot 2026-04-03 023820.png)
+![Link Manager](Screenshot 2026-04-03 023856.png)
+![System Settings](Screenshot 2026-04-03 023924.png)
 
 ---
 
