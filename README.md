@@ -4,7 +4,7 @@
 
 ### 🌐 Live Demo
 Access your personal dashboard here:  
-👉 **[https://kesarrt.github.io/NEXAZ/](https://kesarrt.github.io/NEXAZ/)**
+👉 **[https://kesarrt.github.io/NEXAZ/](https://kesarrt.github.io/NEXAZ/)**pasword-1234
 
 ---
 
